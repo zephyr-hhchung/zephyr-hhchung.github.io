@@ -1,0 +1,16 @@
+# main links
+main:
+  # - title: "About"
+  #   url: /about/
+  # - title: "Home"
+  #   url: /
+  - title: "Research"
+    url: /research/
+  - title: "Side Projects"
+    url: /side-projects/
+  - title: "Activities"
+    url: /activities/
+  - title: "Hobbies"
+    url: /hobbies/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
