@@ -18,10 +18,10 @@ minimal_mistakes_skin    : "dark" # "default" "air", "aqua", "contrast", "dark",
 # Site Settings
 locale                   : "en-US"
 title                    : "zephyr-hhchung"
-title_separator          : " | "
+title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hui-Hsuan (Zephyr) Chung"
-description              : "An amazing website."
+description              : "Data enthusiast, astronomer and traveller"
 url                      : "https://zephyr-hhchung.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

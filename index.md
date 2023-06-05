@@ -6,7 +6,7 @@ classes: wide
 ---
 
 
-![styled-image](/assets/images/jive_jump.jpg){: .align-right style="width: 35%;"}
+<!-- ![styled-image](/assets/images/jive_jump.jpg){: .align-right style="width: 35%;"} -->
 
 ### Hello, I am Hui-Hsuan (Zephyr) Chung!
 

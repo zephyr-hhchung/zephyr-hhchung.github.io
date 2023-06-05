@@ -6,8 +6,8 @@ main:
   #   url: /
   - title: "Research"
     url: /research/
-  - title: "Side Projects"
-    url: /side-projects/
+  - title: "Projects"
+    url: /projects/
   - title: "Activities"
     url: /activities/
   - title: "Hobbies"
