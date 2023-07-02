@@ -1,5 +1,5 @@
 ---
-title: "House plant identification"
+title: "ULX"
 excerpt: "Abstract"
 
 gallery:
@@ -17,3 +17,4 @@ gallery:
 TBD
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
+
