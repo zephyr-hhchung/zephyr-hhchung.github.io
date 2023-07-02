@@ -5,6 +5,7 @@ permalink: /astro/
 collection: astro
 entries_layout: list
 author_profile: true
+classes: wide
 ---
 
 ### Here you can find some astronomy projects I've done

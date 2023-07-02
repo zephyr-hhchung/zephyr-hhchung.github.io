@@ -3,6 +3,7 @@ title: ''
 permalink: /activity/
 layout: single
 author_profile: true
+classes: wide
 
 feature_row:
   - image_path: /assets/images/activities/iram.JPG
