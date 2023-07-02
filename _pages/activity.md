@@ -6,18 +6,27 @@ author_profile: true
 
 feature_row:
   - image_path: /assets/images/activities/iram.JPG
-    title: "Telescopes"
+    # title: "Telescopes"
+    excerpt: "**Visiting/observing at telescope sites**"
   - image_path: assets/images/activities/conference2.png
-    title: "Conferences"
+    # title: "Conferences"
+    excerpt: "**Attending conferences**"
+
   - image_path: assets/images/activities/hack1.jpg
-    title: "Hackathon"
+    # title: "Hackathon"
+    excerpt: "**Participating hackathons**"
 
   - image_path: assets/images/activities/travel1.png
-    title: "Traveling"
+    # title: "Traveling"
+    excerpt: "**Traveling**"
+
   - image_path: assets/images/activities/lingoda2.jpg
-    title: "Learning German"
+    # title: "Learning German"
+    excerpt: "**Learning German**"
+
   - image_path: assets/images/activities/NN.jpg
-    title: "Marathon"
+    # title: "Marathon"
+    excerpt: "**Running for Marathons**"
 
 ---
 
