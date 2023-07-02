@@ -107,7 +107,7 @@ analytics:
 author:
   name             : #"Hui-Hsuan (Zephyr) Chung"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hallo! I study the universe :D"
+  bio              : "Hui-Hsuan (Zephyr) Chung"
   location         : "Bonn, Germany"
   # email            : "hchung(at)mpifr-bonn.mpg.de"
   links:
@@ -284,3 +284,43 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _astro
+  - scope:
+      path: ""
+      type: astro
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      related: false
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      related: false
+  # _activities
+  - scope:
+      path: ""
+      type: activities
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      related: false
+
+
+collections:
+  astro:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  activities:
+    output: true
+    permalink: /:collection/:path/
+

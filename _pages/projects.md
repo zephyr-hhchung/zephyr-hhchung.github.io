@@ -1,17 +1,9 @@
 ---
 title: ''
+layout: collection
 permalink: /projects/
-layout: single
+collection: projects
+entries_layout: list
 author_profile: true
 ---
-
-
-## Waste classification
-
-
-
-
-## PlantNet
-
-
 
