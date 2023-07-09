@@ -7,9 +7,9 @@ classes: wide
 
 ### Hallo! I study the universe :D
 
-I am a PhD student studying astronomy at the Max Planck Institute for Radio Astronomy in Bonn. My research experience equips for myself my technical skills in analyzing astronomical images and time series data, visulaizing the analysis and interpreting the findings. My current focus is to apply moving average processes in modeling the multi-wavelegnth light curves for the black hole in the Galactic Center.
+I am an [astronomy](/astro/) PhD student at the Max Planck Institute for Radio Astronomy in Bonn, Germany. I play with (or analyze, model and sometime siumate) data taken from the telescopes. The data can be galaxy images, spectra of compact objects, or time series data captured from black holes. 
 
-While my primary focus is on astronomy, I am also driven by a curiosity to solve problems from daily life using machine learning. I participated in a machine learning project in classifying 20 most common house plants with deep learning. Additionally, I enojy learning new things and my recent interets is to know how to build a scalable ML pipeline on the cloud. 
+As an astronomer, I have the chance to visit and observe at different telescope sites and travel around the world to attend conference to share my studyings. Besides, I am a big fan of new technologies and I am currently applying [machine learning](/projects/) to solve daily life problems as an effective way to learning it! During my leisure time, I enjoy many [hobbies](/activity/) such as running, hackathons, and learning German! 
 
 ### About my name
 Hui-Hsuan Chung is romanized from the three Chinese characters: 鍾 慧萱. 
