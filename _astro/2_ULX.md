@@ -1,6 +1,6 @@
 ---
-title: "ULX"
-excerpt: "Abstract"
+title: "Detecting the ultraluminous X-ray sources from galaxy mergers"
+excerpt: "Ultraluminous X-ray sources are mysterious astronomical systems are incredibly bright (so it's called "ULTRA" luminous). In my master's thesis, I tried to perform a population study of this kind of sources found in specific type of galaxy system - galaxy mergers. "
 
 gallery:
   - url: /assets/images/astro/ULX/ULX_in_GM.png

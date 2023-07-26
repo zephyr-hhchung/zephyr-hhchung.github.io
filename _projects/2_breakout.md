@@ -1,6 +1,6 @@
 ---
-title: "Breakout game on Python"
-excerpt: "Abstract"
+title: "Breakout game!"
+excerpt: "Here I would like to demonstrate how to create the breakout game in Python using the concept of Object-oriented Programming (OOP)"
 
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
