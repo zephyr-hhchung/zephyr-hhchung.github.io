@@ -4,7 +4,7 @@ excerpt: "My doctoral research topic is about understanding light curves (time-s
 
 gallery:
   - url: /assets/images/astro/sgra/demo.png
-    image_path: assets/images/sgra/demo.png
+    image_path: assets/images/astro/sgra/demo.png
     alt: "Simultated light curves"
 
 ---
